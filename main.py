@@ -2,7 +2,7 @@
 Band Name Generator
 
 Author: Alan
-Date: August 20th 2024
+Date: August 19th 2024
 
 This script generates a band name based on the user's inputs: the city they grew up in and the name of their pet.
 """
